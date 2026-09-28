@@ -1,1 +1,2 @@
 ## A repo with code and data for Techniques in Marine Science 1 (MB5370) - R for Marine Science
+#It contains code and data worked through in the computer workshops for R for Marine Science. Workshop progress is dependent on class speed.
